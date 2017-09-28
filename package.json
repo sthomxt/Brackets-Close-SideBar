@@ -1,0 +1,12 @@
+{
+    "name": "brackets-close-sidebar",
+    "title": "Close SideBar",
+    "description": "Just initially closes the sidebar",
+    "homepage": "https://github.com/sthomxt/Brackets-Close-SideBar",
+    "version": "0.0.1",
+    "author": "sthomxt <sthomxt@gmail.com> (Crebresco)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.41.0"
+    }
+}
